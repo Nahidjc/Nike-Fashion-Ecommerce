@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    width: 290px;
+}
+
+.navbar-nav li {
+    font-weight: bold;
+    color: #3C3C3C;
+    padding: 0 20px;
+    font-size: 18px;
+    line-height: 24px;
+}
