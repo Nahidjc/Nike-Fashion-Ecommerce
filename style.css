@@ -4,6 +4,14 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+* {
+    margin: 0;
+}
+
+header {
+    background-color: #FFF9F4;
+}
+
 .navbar-brand img {
     width: 290px;
 }
@@ -14,4 +22,29 @@ body {
     padding: 0 20px;
     font-size: 18px;
     line-height: 24px;
+}
+
+.banner img {
+    width: 607px;
+    height: 607px;
+}
+
+.banner-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: #363958;
+}
+
+.banner-text span {
+    color: #FA804C;
+
+}
+
+.button-custom {
+    width: 170px;
+    height: 60px;
+    color: #fff;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
 }
