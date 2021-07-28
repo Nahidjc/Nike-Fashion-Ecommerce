@@ -54,15 +54,18 @@ header {
 /* shoes style  */
 
 
-.col-md-4 {
+
+.card-design {
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
     border-radius: 20px;
+
 }
 
 .card-design img {
     width: 334px;
     height: 327px;
     margin-left: auto;
+    border-radius: 20px;
 }
 
 .dolar {
