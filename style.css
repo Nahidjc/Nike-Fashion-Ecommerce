@@ -2,6 +2,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #363958;
+
 }
 
 * {
@@ -24,10 +26,10 @@ header {
     line-height: 24px;
 }
 
-.banner img {
+/* .banner img {
     width: 607px;
     height: 607px;
-}
+} */
 
 .banner-text {
     font-style: normal;
@@ -47,4 +49,32 @@ header {
     color: #fff;
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
     border-radius: 10px;
+}
+
+/* shoes style  */
+
+
+.col-md-4 {
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.card-design img {
+    width: 334px;
+    height: 327px;
+    margin-left: auto;
+}
+
+.dolar {
+    margin: auto 0;
+    font-weight: bold;
+    color: #FA804C;
+}
+
+
+
+.product-title {
+    font-weight: bold;
+    color: #363958;
+
 }
